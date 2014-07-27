@@ -1,4 +1,4 @@
-/* general.js */
+/* general.js functions  */
 
 		//
 		
